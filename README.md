@@ -28,16 +28,13 @@ cat failed_logins.csv
 
 
 📚 Skills Demonstrated
-Regex parsing from real system logs
+Regex parsing from real Linux auth logs
 
-Linux authentication flow
+Understanding of SSH brute-force patterns
 
-Basic SOC analysis logic
+Linux authentication flow + systemd journal usage
 
-Script automation for detection
-
-📎 Tags
-#SOC #Python #Cybersecurity #Linux #BruteForceDetection
+Automation of alert-like detection with Python
 
 
 
