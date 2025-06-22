@@ -28,13 +28,11 @@ cat failed_logins.csv
 
 
 📚 Skills Demonstrated
-Regex parsing from real Linux auth logs
+- Regex parsing from real Linux auth logs
+- Understanding of SSH brute-force patterns
+- Linux authentication flow + systemd journal usage
+- Automation of alert-like detection with Python
 
-Understanding of SSH brute-force patterns
-
-Linux authentication flow + systemd journal usage
-
-Automation of alert-like detection with Python
 
 
 
